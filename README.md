@@ -1,3 +1,6 @@
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1563ISfSPI0mmyVwBsMJNN&ust=1697178992475000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDj5Mjy74EDFQAAAAAdAAAAABAJ
+
+
 <h1 align="center">Hi 👋, I'm Arnab De</h1>
 <h3 align="center">A passionate Data Scientist, Analyst & AI-ML enthusiast from India.</h3>
 
